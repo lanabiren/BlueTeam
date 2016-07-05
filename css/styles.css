@@ -25,7 +25,7 @@
 .market-image-down img{
     border-radius: 50%;
     border: 1px solid #000;
-    margin-top: 150px;
+    margin-top: 20px;
     margin-left: auto;
 }
 .background-grey {
@@ -66,4 +66,18 @@
 @font-face {
     font-family: BigJohn;
     src: url(../fonts/BigJohn.ttf);
+}
+.carousel-images {
+    width: 100%;
+}
+.market-image-up img{
+    margin-top: 20px;
+}
+@media only screen and (min-width: 992px) {
+    .market-image-up {
+        margin-top: -70px;
+    }
+    .market-image-down img{
+        margin-top: 150px;
+    }
 }
