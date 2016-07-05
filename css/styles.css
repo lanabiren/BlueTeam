@@ -1,3 +1,35 @@
+.background-blue {
+    background-color: #9FDFF5;
+    padding: 100px;
+}
+.market-image img{
+    border-radius: 50%;
+    border: 1px solid #000;
+}
+.content-container .market-name {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 40px;
+}
+.market-image {
+    text-align: center;
+}
+.location {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    color: #FC6500;
+}
+.market-image-down img{
+    border-radius: 50%;
+    border: 1px solid #000;
+    margin-top: 150px;
+    margin-left: auto;
+}
+.background-grey {
+    color: #D6D0CB;
+}
 .navbar-custom {
     font-family: sans-serif;
 
@@ -8,4 +40,7 @@
 .navbar-custom .navbar-toggle,
 .navbar-custom .icon-bar {
     border: 1px solid #e65c00;
+}
+.picture-container {
+    text-align: center;
 }
