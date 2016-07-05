@@ -20,7 +20,7 @@
     font-weight: bold;
     font-size: 60px;
     color: #FC6500;
-    font-family: SunriseInternational;
+    font-family: BebasNeue;
 }
 .market-image-down img{
     border-radius: 50%;
@@ -32,7 +32,7 @@
     color: #D6D0CB;
 }
 .navbar-custom {
-    font-family: BebasNeue, sans-serif;;
+    font-family: BebasNeue;
 
 }
 .navbar-custom a {
@@ -62,4 +62,8 @@
 @font-face {
     font-family: BebasNeue;
     src: url(../fonts/BebasNeue.ttf);
+}
+@font-face {
+    font-family: BigJohn;
+    src: url(../fonts/BigJohn.ttf);
 }
