@@ -22,6 +22,14 @@
     color: #FC6500;
     font-family: BigJohn;
 }
+.produce {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    color: #FC6500;
+    font-family: BigJohn;
+
+}
 .market-image-down img{
     border-radius: 50%;
     border: 1px solid #000;
