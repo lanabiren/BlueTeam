@@ -20,7 +20,7 @@
     font-weight: bold;
     font-size: 60px;
     color: #FC6500;
-    font-family: BebasNeue;
+    font-family: BigJohn;
 }
 .market-image-down img{
     border-radius: 50%;
@@ -29,10 +29,10 @@
     margin-left: auto;
 }
 .background-grey {
-    color: #D6D0CB;
+    background-color: #D6D0CB;
 }
 .navbar-custom {
-    font-family: BebasNeue;
+    font-family: BigJohn;
 
 }
 .navbar-custom a {
@@ -46,12 +46,12 @@
     text-align: center;
 }
 .market-name {
-    font-family: Kenzo;
+    font-family: CenturyGothic;
     color: #FC6500;
     /*margin-bottom: px;*/
 }
 .market-info {
-    font-family: sans-serif;
+    font-family: CenturyGothic;
     font-size: 20px;
     margin-top: 1px;
     text-align: center;
@@ -69,15 +69,16 @@
     font-family: BigJohn;
     src: url(../fonts/BigJohn.ttf);
 }
-.carousel-images {
-    width: 100%;
+@font-face {
+    font-family: CenturyGothic;
+    src: url(../fonts/CenturyGothic.ttf);
 }
 .market-image-up img{
     margin-top: 20px;
 }
 @media only screen and (min-width: 992px) {
     .market-image-up {
-        margin-top: -70px;
+        margin-top: -120px;
     }
     .market-image-down img{
         margin-top: 150px;
